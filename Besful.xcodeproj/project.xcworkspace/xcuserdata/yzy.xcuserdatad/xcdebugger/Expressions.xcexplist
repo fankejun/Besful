@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ProdListViewController requestFinished:]:ProdListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "Is4_0inch">
+            </PersistentString>
+            <PersistentString
+               value = "pageindex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProdListViewController scrollViewDidEndDragging:willDecelerate:]:ProdListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ProdListViewController getInfo]:ProdListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.productIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewActivityViewController requestFinished:]:NewActivityViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.tag">
+            </PersistentString>
+            <PersistentString
+               value = "newActivity.COLUMN1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
